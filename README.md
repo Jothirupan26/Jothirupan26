@@ -133,7 +133,7 @@ Regression-ready suite covering the full shopping journey — login, registratio
 
 <br/>
 
-[View Repository →](https://github.com/Jothirupan26)
+[View Repository →](https://github.com/Jothirupan26/Selenium_Project_ECA)
 
 </td>
 </tr>
