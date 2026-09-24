@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Jothirupan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=55&descSize=18"/>
+<img src="![Jothirupan](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Jothirupan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descAlignY=55&descSize=18)"/>
 
 <br/>
 
