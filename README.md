@@ -117,7 +117,7 @@ src/
    └─ dataproviders/
 ```
 
-[View Repository →](https://github.com/Jothirupan26)
+[View Repository →](https://github.com/Jothirupan26/Para_Bank)
 
 </td>
 <td width="50%" valign="top">
