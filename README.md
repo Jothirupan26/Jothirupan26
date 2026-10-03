@@ -76,8 +76,8 @@ Registration → Login → Product Search → Product Validation → Cart → Ch
 <div align="center"> <img src="assets/pipeline.svg" width="100%" alt="QA pipeline: requirements to report"/> </div> <details> <summary><b>🐛 Defect lifecycle</b></summary>
 PASS
 FAIL
-PASS
 FAIL
+PASS
 Requirements
 Test Scenarios
 Test Cases
@@ -94,7 +94,6 @@ Reports and Evidence
 <div align="center"> <img src="assets/roadmap.svg" width="100%" alt="Learning roadmap: framework design, reporting, SQL, CI/CD"/> </div> <img src="assets/divider.svg" width="100%" alt=""/>
 📊 GitHub Activity
 <div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=Jothirupan26&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/> <img height="175" src="https://streak-stats.demolab.com/?user=Jothirupan26&theme=tokyonight&hide_border=true"/> <br> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jothirupan26&layout=compact&hide_border=true&theme=tokyonight"/>
-
 
 <br><br>
 
