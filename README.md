@@ -95,9 +95,6 @@ Reports and Evidence
 📊 GitHub Activity
 <div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=Jothirupan26&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/> <img height="175" src="https://streak-stats.demolab.com/?user=Jothirupan26&theme=tokyonight&hide_border=true"/> <br> <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jothirupan26&layout=compact&hide_border=true&theme=tokyonight"/>
 
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jothirupan26&theme=tokyo-night&hide_border=true&area=true"/>
 
 <br><br>
 
